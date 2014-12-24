@@ -5,7 +5,7 @@ A simple swift application that uses touch ID feature to retrieve a saved passwo
 
 ## System Requirements
 
-TouchLoginDemo needs iOS 8.0+ to run and an Touch ID enabled device (iPhone 5S+, iPad Air 2+, iPad Mini 3+)
+TouchLoginDemo needs iOS 8.0+ to run and a Touch ID enabled device (iPhone 5S+, iPad Air 2+, iPad Mini 3+)
 
 
 ## License
